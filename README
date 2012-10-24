@@ -1,0 +1,7 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=4283
+
+A ctrlp extension to list locally modified files in your git-versioned projects.
+
+map <Leader>m :CtrlPModified<CR>
+
+Source: https://github.com/jasoncodes/ctrlp-modified.vim/tags
